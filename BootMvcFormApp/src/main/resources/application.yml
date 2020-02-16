@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password: root
+    username: root
+    url: jdbc:mysql:///shri
+    driver-class-name: com.mysql.cj.jdbc.Driver
